@@ -1,0 +1,44 @@
+﻿Der Buildvorgang wurde am 17.05.2013 11:25:57 gestartet.
+     1>Projekt "C:\Programmieren\Projekte\C++\Visual Studio\MyFirstApp\MyFirstApp.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\Autounfallmelder.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         c:\Programmieren\Progs\Visual Studio\2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ressources.cpp
+         Ressources.cpp
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         c:\Programmieren\Progs\Visual Studio\2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Programmieren\Projekte\C++\Visual Studio\MyFirstApp\Debug\Autounfallmelder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Autounfallmelder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Programmieren\Projekte\C++\Visual Studio\MyFirstApp\Debug\Autounfallmelder.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Programmieren\Projekte\C++\Visual Studio\MyFirstApp\Debug\Autounfallmelder.lib" /MACHINE:X86 Debug\Autounfallmelder.exe.embed.manifest.res
+         Debug\App.obj
+         Debug\base64.obj
+         Debug\BlueScreen.obj
+         Debug\EditBox.obj
+         Debug\IhreDaten.obj
+         Debug\Kontakt.obj
+         Debug\MainScreen.obj
+         Debug\MeineUnfaelle.obj
+         Debug\Ressources.obj
+         Debug\Saved.obj
+         Debug\Screen.obj
+         Debug\SQLite.obj
+         Debug\TextBox.obj
+         Debug\TouchButton.obj
+         Debug\Unfall.obj
+         Debug\Unfallgegner.obj
+         Debug\Unfallhergang.obj
+         Debug\WhiteScreen.obj
+         Debug\Zusammenfassung.obj
+       Manifest:
+         C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Autounfallmelder.exe.embed.manifest" /manifest Debug\Autounfallmelder.exe.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         MyFirstApp.vcxproj -> C:\Programmieren\Projekte\C++\Visual Studio\MyFirstApp\Debug\Autounfallmelder.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\Autounfallmelder.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\Autounfallmelder.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Programmieren\Projekte\C++\Visual Studio\MyFirstApp\MyFirstApp.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:03.09

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Screens">
+      <UniqueIdentifier>{a9e3babc-6a5b-4eba-bffe-dd460b14a35f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Klassen">
+      <UniqueIdentifier>{41017dc8-f7e2-4a92-93bf-a6fa80a66d27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Klassen">
+      <UniqueIdentifier>{e6ddc914-55ad-459a-b915-df200de125be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{b1f744f1-45ca-4580-9201-dd195964aa74}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ressources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IhreDaten.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Kontakt.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="MainScreen.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="MeineUnfaelle.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Unfallgegner.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Unfallhergang.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Zusammenfassung.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueScreen.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="EditBox.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="SQLite.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="TouchButton.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="Unfall.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="WhiteScreen.cpp">
+      <Filter>Source Files\Klassen</Filter>
+    </ClCompile>
+    <ClCompile Include="base64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Saved.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DragonFireSDK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ressources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueScreen.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="IhreDaten.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Kontakt.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="MeineUnfaelle.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Unfallgegner.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Unfallhergang.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Zusammenfassung.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="EditBox.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLite.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="TouchButton.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="Unfall.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="WhiteScreen.h">
+      <Filter>Header Files\Klassen</Filter>
+    </ClInclude>
+    <ClInclude Include="base64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Saved.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
